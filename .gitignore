@@ -3,7 +3,7 @@ target
 .settings
 .classpath
 .project
-*.class
+*.classasd
 # Package Files #assasas
 *.jar
 *.war
